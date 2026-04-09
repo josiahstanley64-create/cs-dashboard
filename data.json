@@ -1,0 +1,86 @@
+[
+    {
+        "date": "2026-02-28",
+        "greenhouse": "Lamu",
+        "crop": "Capsicum",
+        "yield": 200.0
+    },
+    {
+        "date": "2026-02-28",
+        "greenhouse": "Kericho",
+        "crop": "Capsicum",
+        "yield": 178.0
+    },
+    {
+        "date": "2026-02-28",
+        "greenhouse": "Homa Bay",
+        "crop": "Cucumber",
+        "yield": 715.0
+    },
+    {
+        "date": "2026-03-07",
+        "greenhouse": "Homa Bay",
+        "crop": "Cucumber",
+        "yield": 715.0
+    },
+    {
+        "date": "2026-03-07",
+        "greenhouse": "Kericho",
+        "crop": "Capsicum",
+        "yield": 155.0
+    },
+    {
+        "date": "2026-03-07",
+        "greenhouse": "Lamu",
+        "crop": "Capsicum",
+        "yield": 200.0
+    },
+    {
+        "date": "2026-03-14",
+        "greenhouse": "Lamu",
+        "crop": "Capsicum",
+        "yield": 350.0
+    },
+    {
+        "date": "2026-03-14",
+        "greenhouse": "Homa Bay",
+        "crop": "Cucumber",
+        "yield": 640.0
+    },
+    {
+        "date": "2026-03-21",
+        "greenhouse": "Lamu",
+        "crop": "Capsicum",
+        "yield": 390.0
+    },
+    {
+        "date": "2026-03-21",
+        "greenhouse": "Homa Bay",
+        "crop": "Cucumber",
+        "yield": 740.0
+    },
+    {
+        "date": "2026-03-28",
+        "greenhouse": "Lamu",
+        "crop": "Capsicum",
+        "yield": 370.0
+    },
+    {
+        "date": "2026-03-28",
+        "greenhouse": "Homa Bay",
+        "crop": "Cucumber",
+        "yield": 630.0
+    },
+    {
+        "date": "2026-04-04",
+        "greenhouse": "Lamu",
+        "crop": "Capsicum",
+        "yield": 247.0
+    },
+    {
+        "date": "2026-04-04",
+        "greenhouse": "Homa Bay",
+        "crop": "Cucumber",
+        "yield": 525.0
+    }
+]
